@@ -16,6 +16,7 @@ body {
 
 body::before {
     background-image: url("img/code.png");
+    background-image: url("img/ia.png");
     background-repeat: no-repeat;
     background-position: right;
     content: "";
